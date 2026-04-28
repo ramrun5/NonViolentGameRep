@@ -1,0 +1,945 @@
+fileFormatVersion: 2
+guid: 489f16104961a0c4abe4bba08f7d3b35
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e7afbbe4186f4088421b331d5bcca
+      internalID: 847414669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe46ea8f082ce4e9c66b78f5aac9a3
+      internalID: -1424931686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a69df9a52cdd54e9e73b17d75216d2
+      internalID: -913537929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9ab799cfa43d4dbc314aad16d00b8
+      internalID: -204234202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d70aa77accc745813762161de66a3
+      internalID: 777334126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 507
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd01d2eb16a71346bc02663a38e8791
+      internalID: -970963205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 411
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd5a0bd52959a9489fd241a4799c5db
+      internalID: -679378087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 411
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f8744fc582d242a53314f7c1f6fa7
+      internalID: 534794213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 411
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcf2eb68d49aea4889beb5afb37367b
+      internalID: -221644873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 411
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48c38a98e0ec04ea59120b223c5dbd
+      internalID: -851106710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 411
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5d24dbbdfbab4aae8872c6ff3d7b6
+      internalID: 582779178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 411
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c29269e811d141a368bae1890eaf7
+      internalID: 1656056689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983c1e0a74df3442a75c9d14ae044d9
+      internalID: 1119474458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_13
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53766c731a8b2f24c97a19c2fd54d919
+      internalID: -603471229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461da83a56ac5034bac38f3fcbc9cb1d
+      internalID: -285772510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2108fd49e73d6439405b4606661bec
+      internalID: 543389828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849daaa80955bc4699a0b0670a2333f
+      internalID: 1564196334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_17
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 315
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5ebb2948bc218469313e3803fa8553
+      internalID: -408238663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45386a6aed2706e468d41b16eafdc189
+      internalID: 1626250730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df9ae86c9749fd4eb03e565f752d236
+      internalID: 680474053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ff1cced5234945a4accbc068ba825
+      internalID: 1307624806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aae76b95294ed94a9fc0223f4c3d8f6
+      internalID: -312354973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0dd5cf086e9a44692ffe0a12fddfb0
+      internalID: 1489675169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 219
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc05528b2306a4cb9616eabf278e53
+      internalID: -1279540728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 123
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5bc7e2d4ef2d4cb27a6f91466c2ed
+      internalID: -1920957422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef17003e6a4a7c4f8f2235db7ee9425
+      internalID: -1568337072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_26
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 123
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e48f7de9ec4f9743bd873791229e2c4
+      internalID: 633804410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 123
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a22f01c6bac8c4cb79f447691d7e25
+      internalID: -1842996304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_28
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 123
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b554db4e5d334bc4d95ef0456043928a
+      internalID: -1639247659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 123
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb8787d4a6dce9469460e52f0531330
+      internalID: -1892039001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b308a12b2a83040813ed028164ab66
+      internalID: 309030742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 27
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0fcb9c1f2752f408e769933aeb04b3
+      internalID: 281599568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70af6228cef9a584785b0993b76c13a3
+      internalID: -931129561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 27
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea042612e5757d41a07314601b67b4a
+      internalID: -1979027657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 27
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d719ede5aba10434e88a40e8e3b84d6c
+      internalID: 1923851723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fancy Dice (Fully animated)_35
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 27
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346c111d72050743ab6f0e820166564
+      internalID: 1720566616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f293bedf9d691dc4e853201cf4fb2fa6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fancy Dice (Fully animated)_0: 847414669
+      Fancy Dice (Fully animated)_1: -1424931686
+      Fancy Dice (Fully animated)_10: 582779178
+      Fancy Dice (Fully animated)_11: 1656056689
+      Fancy Dice (Fully animated)_12: 1119474458
+      Fancy Dice (Fully animated)_13: -603471229
+      Fancy Dice (Fully animated)_14: -285772510
+      Fancy Dice (Fully animated)_15: 543389828
+      Fancy Dice (Fully animated)_16: 1564196334
+      Fancy Dice (Fully animated)_17: -408238663
+      Fancy Dice (Fully animated)_18: 1626250730
+      Fancy Dice (Fully animated)_19: 680474053
+      Fancy Dice (Fully animated)_2: -913537929
+      Fancy Dice (Fully animated)_20: 1307624806
+      Fancy Dice (Fully animated)_21: -312354973
+      Fancy Dice (Fully animated)_22: 1489675169
+      Fancy Dice (Fully animated)_23: -1279540728
+      Fancy Dice (Fully animated)_24: -1920957422
+      Fancy Dice (Fully animated)_25: -1568337072
+      Fancy Dice (Fully animated)_26: 633804410
+      Fancy Dice (Fully animated)_27: -1842996304
+      Fancy Dice (Fully animated)_28: -1639247659
+      Fancy Dice (Fully animated)_29: -1892039001
+      Fancy Dice (Fully animated)_3: -204234202
+      Fancy Dice (Fully animated)_30: 309030742
+      Fancy Dice (Fully animated)_31: 281599568
+      Fancy Dice (Fully animated)_32: -931129561
+      Fancy Dice (Fully animated)_33: -1979027657
+      Fancy Dice (Fully animated)_34: 1923851723
+      Fancy Dice (Fully animated)_35: 1720566616
+      Fancy Dice (Fully animated)_4: 777334126
+      Fancy Dice (Fully animated)_5: -970963205
+      Fancy Dice (Fully animated)_6: -679378087
+      Fancy Dice (Fully animated)_7: 534794213
+      Fancy Dice (Fully animated)_8: -221644873
+      Fancy Dice (Fully animated)_9: -851106710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
